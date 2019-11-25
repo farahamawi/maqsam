@@ -4,7 +4,7 @@ maqsam toy problems
 ## Sudoku validator
 python module to validate sudoku
 
-### input
+### Input
 2 dimentional array 
 [[5,3,4,6,7,8,9,1,2],
 [6,7,2,1,9,5,3,4,8],
@@ -19,10 +19,10 @@ python module to validate sudoku
 ### Output
 boolean (True, False)
 
-### Prerequiremsudokuent 
+### Prerequirements
 1. python3 
 
-### get started
+### Get started
 from withen the main directory run the following command
 ```bash
 python3 sudoku_validator.py 
@@ -30,24 +30,24 @@ python3 sudoku_validator.py
 
 
 
-## tweet 
+## Tweet 
 python module to tweet 
 
-### inputs
-		1. consumer_key
-		2. consumer_secret
-		3. access_token
-		4. access_token_secret
-    5. tweet body
+### Input
+1. consumer_key
+2. consumer_secret
+3. access_token
+4. access_token_secret
+5. tweet body
     
-### output
+### Output
 message to verify that tweet has posted
 
-### prerequirements
+### Prerequirements
 1. python3
 2. tweepy
 
-### get started
+### Get started
 from withen the main directory run the following command
 ```bash
 python3 tweet.py 
